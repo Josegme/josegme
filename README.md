@@ -1,7 +1,5 @@
 ## Hi there - Soy Josegme Dev 👋
 
-## Hi there - I'm Josegme Dev 👋
-
 <div align="center">
   <img src="URL_OF_YOUR_BANNER_IMAGE" alt="Banner" width="100%">
 </div>

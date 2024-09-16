@@ -1,7 +1,7 @@
 ## Hi there - Soy Josegme Dev 👋
 
 <div align="center">
-  <img src="./" alt="Banner" width="100%">
+  <img src="banner de prueba.png" alt="Banner" width="100%">
 </div>
 
 - 🌱 Currently studying **Management in Programming and Technological Innovation** and **AI & Machine Learning**.

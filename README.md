@@ -1,7 +1,7 @@
 ## Hi there - Soy Josegme Dev 👋
 
 <div align="center">
-  <img src="[banner de prueba.png](https://github.com/Josegme/josegme/blob/main/banner%20-%20FullStack%20Developer.png)" alt="Banner" width="100%">
+  <img src="https://github.com/Josegme/josegme/blob/main/banner%20-%20FullStack%20Developer.png" alt="Banner" width="100%">
 </div>
 
 - 🌱 Currently studying **Management in Programming and Technological Innovation** and **AI & Machine Learning**.

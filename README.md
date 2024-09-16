@@ -16,7 +16,10 @@
     - Strategic Planning and Management for SMEs
     - Managerial Marketing
     - Fundamentals of Digital Marketing - GoogleSkill
-    - Google SkillShop Certificate
+    - Fundamental Marketing Google Certificate
+    - Google My Business Certificate
+    - Data Analytics - CoderHouse
+    - Community Manager
   - **Introduction to Data Science** - CISCO
 - 🧑‍💻 Data Analytics and working on personal projects to be uploaded soon.
 - 💡 Fun fact: I’m always in continuous training as technology advances rapidly. I love reading, training, and constantly challenging myself with learning. I enjoy teamwork because "one person arrives quickly, but together we go further."

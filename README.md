@@ -4,24 +4,35 @@
   <img src="https://github.com/Josegme/josegme/blob/main/Black%20and%20White%20Gradient%20Corporate%20Business%20Linkedin%20Banner%20Background%20Photo.png" alt="Banner" width="100%">
 </div>
 
-- 🌱 Currently studying **Management in Programming and Technological Innovation** and **AI & Machine Learning**.
-- 💼 Currently working in **Digital Marketing** - SEO, **Strategic Marketing**. Recently diving into pure programming.
-- 🎓 Certified in:
-  - **Introduction to Cybersecurity** - CISCO (studying and preparing for Junior Cybersecurity role)
-  - **Network Technician Career Path** - CISCO
-  - **Office Digital Competencies** (Microsoft Word, Excel, PowerPoint)
-  - **Creating Compelling Reports** - CISCO
-  - **Marketing Certifications**:
-    - Service Experience Design
-    - Strategic Planning and Management for SMEs
-    - Managerial Marketing
-    - Fundamentals of Digital Marketing - GoogleSkill
-    - Fundamental Marketing Google Certificate
-    - Google My Business Certificate
-    - Data Analytics - CoderHouse
-    - Community Manager
-  - **Introduction to Data Science** - CISCO
-- 🧑‍💻 Data Analytics and working on personal projects to be uploaded soon.
-- 💡 Fun fact: I’m always in continuous training as technology advances rapidly. I love reading, training, and constantly challenging myself with learning. I enjoy teamwork because "one person arrives quickly, but together we go further."
+🚀 Evolving Tech Professional | Passionate about AI, Programming & Digital Strategy
+
+👨‍💻 Currently focused on advancing my Full Stack Development skills using Python/Django, JavaScript, and modern web technologies. Actively working on real-world projects and uploading them to GitHub.
+
+🎓 Ongoing education in:
+- Programming and Technological Innovation Management (INCADE)
+- Desarrollo FullStack Python (G-Talen)
+- Data Science (Escuela Directa)
+
+- 📜 Certified in:
+- Artificial Intelligence & Machine Learning (INCADE - Escuela de Negocios)
+- Introduction to Cybersecurity – CISCO
+- Network Technician Career Path – CISCO
+- Introduction to Data Science – CISCO
+- Community Manager/Tableau/Excel – CoderHouse
+- Fundamentals of Digital Marketing – GoogleSkill
+- Google My Business - Google
+- Strategic Marketing, Service Design & SME Planning
+- Microsoft Office Competencies (Word, Excel, PowerPoint)
+- Diplomado: Community Manager (Politécnico de Colómbia)
+- POO (Fundación C. Slim)
+
+🛠️ Practical experience in:
+- Digital Marketing & SEO
+- Data Analysis & Dashboards
+- Team collaboration and agile learning
+
+🌱 Always learning – currently diving deeper into backend development and AI-powered applications. Passionate about using tech to solve real-world problems.
+
+💡 Motto: “Alone we go fast, but together we go far.” I believe in collaboration, continuous growth, and making an impact through technology.
 
 

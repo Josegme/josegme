@@ -12,10 +12,11 @@
 - Programming and Technological Innovation Management (INCADE)
 - Desarrollo FullStack Python (G-Talent)
 - Data Science (Escuela Directa)
+- Data Analytics c/ Python (UTN - Universidad Tecnológica Nacional)
 
 - 📜 Certified in:
 - Artificial Intelligence & Machine Learning (INCADE - Escuela de Negocios)
-- Python "Funfamentos - Desarrollo - Librerias" (Escuela Directa)
+- Python "Fundamentos - Desarrollo - Librerias Py" (Escuela Directa)
 - SQL / MySQL (Escuela Directa)
 - Desarrollo Frontend/Backend (UDEMY)
 - Introduction to Cybersecurity – CISCO

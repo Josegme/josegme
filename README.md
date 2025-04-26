@@ -10,7 +10,7 @@
 
 🎓 Ongoing education in:
 - Programming and Technological Innovation Management (INCADE)
-- Desarrollo FullStack Python (G-Talen)
+- Desarrollo FullStack Python (G-Talent)
 - Data Science (Escuela Directa)
 
 - 📜 Certified in:
@@ -24,6 +24,7 @@
 - Strategic Marketing, Service Design & SME Planning
 - Microsoft Office Competencies (Word, Excel, PowerPoint)
 - Diplomado: Community Manager (Politécnico de Colómbia)
+- Diplomado: Marketing Digital (Politécnico de Colómbia)
 - POO (Fundación C. Slim)
 
 🛠️ Practical experience in:

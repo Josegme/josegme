@@ -15,6 +15,9 @@
 
 - 📜 Certified in:
 - Artificial Intelligence & Machine Learning (INCADE - Escuela de Negocios)
+- Python "Funfamentos - Desarrollo - Librerias" (Escuela Directa)
+- SQL / MySQL (Escuela Directa)
+- Desarrollo Frontend/Backend (UDEMY)
 - Introduction to Cybersecurity – CISCO
 - Network Technician Career Path – CISCO
 - Introduction to Data Science – CISCO

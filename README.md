@@ -1,7 +1,7 @@
 ## Hi there - Soy Josegme Dev 👋
 
 <div align="center">
-  <img src="https://github.com/Josegme/josegme/blob/main/Black%20and%20White%20Gradient%20Corporate%20Business%20Linkedin%20Banner%20Background%20Photo.png" alt="Banner" width="100%">
+  <img src="https://github.com/Josegme/josegme/blob/main/Black and White Gradient Corporate Business Linkedin Banner Background Photo (1).png" alt="Banner" width="100%">
 </div>
 
 🚀 Evolving Tech Professional | Passionate about AI, Programming & Digital Strategy

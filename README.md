@@ -17,17 +17,13 @@ Currently pursuing an Associate Degree in Programming & Technological Innovation
 
 Python (Django, Flask)
 
-JavaScript (Node.js, React, Express)
+HTML5, CSS3, Bootstrap, JavaScript
 
-HTML5, CSS3, Bootstrap
-
-Java (OOP, fundamentals)
+Java (OOP, fundamentals) + Spring Boot
 
 🔹 Databases & Data
 
-SQL / MySQL
-
-PostgreSQL
+SQL / MySQL 
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -73,7 +69,7 @@ Data Science & Analytics with Python (UTN, Escuela Directa)
 
 Artificial Intelligence & Machine Learning – INCADE
 
-SQL/MySQL – Escuela Directa
+SQL/MySQL – Escuela Directa - Udemy
 
 Frontend & Backend Development – Udemy
 
@@ -85,11 +81,11 @@ Community Manager / Tableau / Excel – CoderHouse
 
 Digital Marketing – Google, Politécnico de Colombia
 
+Community Management and Manager
+
 🛠️ Practical Experience
 
 Freelance work in Technical & Content SEO, Web Development, and Community Management consulting
-
-Building web applications with Python/Django & JavaScript
 
 Creating dashboards and data analysis with Python, SQL, and Tableau
 
@@ -98,8 +94,6 @@ Designing SEO and Paid Media strategies for companies and professionals
 Project management and teamwork in agile environments
 
 🌱 Currently Exploring
-
-Advanced Backend (Django REST Framework, APIs)
 
 AI-powered real-world applications
 

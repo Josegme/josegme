@@ -29,11 +29,11 @@ Actualmente cursando la **Tecnicatura en Programación y Gestión de Innovación
 
 | Herramienta / Skill | Nivel | Certificación |
 |---|---|---|
-| **Claude Code** (Anthropic) | ⭐⭐⭐⭐⭐ | ✅ Claude Code 101 + in Action — 2026 |
+| **Claude Code** (Anthropic) | ⭐⭐⭐⭐⭐ | ✅ Claude Code 101 + in Action + Cowork + Code 2026 |
 | **n8n** — Flujos y ChatBots con IA | ⭐⭐⭐⭐ | ✅ Desde Cero a ChatBot con IA |
-| **VibeCoding** — Dev asistido por IA | ⭐⭐⭐⭐ | ✅ Digital Life Academy + Escuela Directa |
+| **VibeCoding** — Dev asistido por IA | ⭐⭐⭐⭐ | ✅ Digital Life Academy + Escuela Directa + UDEMY|
 | **Prompt Engineering** | ⭐⭐⭐⭐ | ✅ Aplicado en proyectos reales |
-| **Machine Learning** | ⭐⭐⭐ | ✅ Escuela Directa |
+| **Machine Learning** | ⭐⭐⭐ | ✅ Escuela Directa + INCADE|
 | **LLMs / ChatGPT / OpenAI** | ⭐⭐⭐⭐ | ✅ INCADE |
 
 ---
@@ -59,15 +59,15 @@ Java        █████░░░░░░░░░  POO · Spring Boot (fund
 | Institución | Programa | Estado |
 |---|---|---|
 | **INCADE** | Tecnicatura en Programación y Gestión de Innovación Tecnológica | 🟡 En curso |
-| **G-Talent** | Desarrollo FullStack Python | 🟡 En curso |
-| **UTN / Escuela Directa** | Data Science y Analytics con Python | ✅ Completado |
+| **CISCO** | Desarrollo Python | Hacking Etico | Ciberseguridad Jr | 🟡 En curso |
+| **HUMAI** | Ingenieria de Datos | 🟡 En curso |
 
 ---
 
 ## 📜 Certificaciones Destacadas
 
 ### 🤖 IA y Machine Learning
-- 🏆 **Claude Code 101 + Claude Code in Action** — Anthropic *(2026)*
+- 🏆 **Claude Code 101 + Claude Code in Action + Code + Cowork + MCP** — Anthropic *(2026)*
 - **Fundamentos de la IA** — HUMAI
 - **Machine Learning** — Escuela Directa
 - **GenAI — LLM, ChatGPT, OpenAI** — INCADE
@@ -110,10 +110,14 @@ Java        █████░░░░░░░░░  POO · Spring Boot (fund
 ## 🛠️ Experiencia Práctica
 
 **Freelance — Desarrollo Web, SEO y Automatización** *(2023 — Presente)*
+- Desarrollo de www.pickevent.site actualmente servicio en Producción y monetizado
+- Desarrollo web y SEO/Community Manager
 - Desarrollo de sitios con WordPress, Google Sites y tecnologías frontend
 - Automatización de flujos con n8n e integración de IA
 - Análisis de datos con Python, SQL y Tableau
 - SEO técnico y campañas Paid Media (Google Ads, Meta Ads)
+
+- ACTUALMENTE ESTOY DESARROLLANDO DOS PROYECTOS PARA EL INSTITUTO INCADE 2026
 
 ---
 
@@ -128,7 +132,7 @@ Java        █████░░░░░░░░░  POO · Spring Boot (fund
 
 ## 🌍 Idiomas
 
-🇦🇷 Español — Nativo | 🇺🇸 Inglés — A2 en progreso | 🇧🇷 Portugués — Básico-Intermedio
+🇦🇷 Español — Nativo | 🇺🇸 Inglés — B1 en progreso | 🇧🇷 Portugués — Avanzado
 
 ---
 

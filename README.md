@@ -59,7 +59,7 @@ Java        █████░░░░░░░░░  POO · Spring Boot (fund
 | Institución | Programa | Estado |
 |---|---|---|
 | **INCADE** | Tecnicatura en Programación y Gestión de Innovación Tecnológica | 🟡 En curso |
-| **CISCO** | Desarrollo Python | Hacking Etico | Ciberseguridad Jr | 🟡 En curso |
+| **CISCO** | Desarrollo Python - Hacking Etico - Ciberseguridad Jr | 🟡 En curso |
 | **HUMAI** | Ingenieria de Datos | 🟡 En curso |
 
 ---

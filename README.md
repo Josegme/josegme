@@ -29,12 +29,12 @@ Actualmente cursando la **Tecnicatura en Programación y Gestión de Innovación
 
 | Herramienta / Skill | Nivel | Certificación |
 |---|---|---|
-| **Claude Code** (Anthropic) | ⭐⭐⭐⭐⭐ | ✅ Claude Code 101 + in Action + Cowork + Code 2026 |
-| **n8n** — Flujos y ChatBots con IA | ⭐⭐⭐⭐ | ✅ Desde Cero a ChatBot con IA |
-| **VibeCoding** — Dev asistido por IA | ⭐⭐⭐⭐ | ✅ Digital Life Academy + Escuela Directa + UDEMY|
-| **Prompt Engineering** | ⭐⭐⭐⭐ | ✅ Aplicado en proyectos reales |
-| **Machine Learning** | ⭐⭐⭐ | ✅ Escuela Directa + INCADE|
-| **LLMs / ChatGPT / OpenAI** | ⭐⭐⭐⭐ | ✅ INCADE |
+| **Claude Code** (Anthropic) | ⭐⭐⭐⭐⭐ | ✅ Claude Code 101 + in Action + Cowork + Code + MCP |
+| **n8n** — Flujos y ChatBots con IA | ⭐⭐⭐⭐ | ✅ Workflows - Automatizaciones - RRSS - ChatBot |
+| **VibeCoding** — Dev asistido por IA | ⭐⭐⭐⭐ | ✅ Humai + Escuela Directa + UDEMY + Platzi |
+| **Prompt Engineering** | ⭐⭐⭐⭐ | ✅ Humai + Platzi + Udemy + Instituto DaVinci |
+| **Machine Learning** | ⭐⭐⭐ | ✅ Escuela Directa + INCADE + Udemy + Platzi|
+| **LLMs / ChatGPT / OpenAI** | ⭐⭐⭐⭐ | ✅ INCADE + Humai |
 
 ---
 
